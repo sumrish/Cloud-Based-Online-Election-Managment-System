@@ -1,0 +1,44 @@
+#DemoGrad{  
+    background: -webkit-linear-gradient(#006400,SpringGreen);  
+    background: -moz-linear-gradient(#006400,SpringGreen);  
+    background: -o-linear-gradient(#006400,SpringGreen);  
+    background: linear-gradient(#006400,SpringGreen);  
+
+    -webkit-transition: background 1s ease-out;  
+    -moz-transition: background 1s ease-out;  
+    -o-transition: background 1s ease-out;  
+    transition: background 1s ease-out;  
+
+    background-size:1px 200px;  
+    border-radius: 10px;  
+    border: 1px solid MediumSeaGreen;  
+    cursor:pointer;  
+    width: 130px;  
+    height: 50px;  
+}  
+#DemoGrad:Hover{  
+    background-position:100px;  
+} 
+@media screen and (max-width: 55em){
+	#DemoGrad{  
+    background: -webkit-linear-gradient(#006400,SpringGreen);  
+    background: -moz-linear-gradient(#006400,SpringGreen);  
+    background: -o-linear-gradient(#006400,SpringGreen);  
+    background: linear-gradient(#006400,SpringGreen);  
+
+    -webkit-transition: background 1s ease-out;  
+    -moz-transition: background 1s ease-out;  
+    -o-transition: background 1s ease-out;  
+    transition: background 1s ease-out;  
+
+    background-size:1px 200px;  
+    border-radius: 10px;  
+    border: 1px solid MediumSeaGreen;  
+    cursor:pointer;  
+    width: 130px;  
+    height: 50px;  
+}  
+#DemoGrad:Hover{  
+    background-position:100px;  
+} 
+}

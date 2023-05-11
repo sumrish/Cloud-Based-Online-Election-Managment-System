@@ -1,0 +1,20 @@
+table{
+padding-top:3%;padding-bottom: 3%;
+border: 1px  DarkGreen;
+height: auto;
+background-position:center; 
+width:auto;
+margin:0 auto; 
+text-align:center;   
+}
+
+table#t01 tr:nth-child(even) {
+    background-color: #99FF99;
+}
+table#t01 tr:nth-child(odd) {
+   background-color:#fff;
+}
+table#t01 th	{
+    background-color: green;
+    color: white;
+}

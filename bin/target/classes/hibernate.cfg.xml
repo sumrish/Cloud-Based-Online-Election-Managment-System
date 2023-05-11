@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+    "-//Hibernate/Hibernate Configuration DTD//EN"
+    "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd"> 
+    
+<hibernate-configuration>
+    <session-factory>        
+        <mapping class="com.fyp.model.voter"/>
+        <mapping class="com.fyp.model.candidates"/>
+        <mapping class="com.fyp.model.pollingstation" />
+         <mapping class="com.fyp.model.Votes" />
+         <mapping class="com.fyp.model.provisionalcandidates" />
+          <mapping class="com.fyp.model.provisionalvotes" />
+          <mapping class="com.fyp.model.admin" />
+          <mapping class="com.fyp.model.constituency" />
+            <mapping class="com.fyp.model.JSGFPLibTest" />
+    </session-factory>         
+</hibernate-configuration>

@@ -1,0 +1,23 @@
+body {
+padding-top:15%;padding-bottom: 15%;
+    background-color: whitesmoke;
+}
+
+.user-id-div{
+padding-top:5%;padding-bottom: 5%;
+padding-left:3%;padding-right: 5%;
+    border: 7px solid DarkGreen;
+height: 100px
+background-position:center; 
+width:350px;
+margin:0 auto; 
+text-align:center;   
+}
+.user-id-div span{
+  display:inline-block;
+}
+span{
+	color:DarkGreen;
+	font-weight:bold;
+	
+}

@@ -1,0 +1,18 @@
+#myDIV {
+  
+    background-image:url('https://s-media-cache-ak0.pinimg.com/736x/1e/0d/b5/1e0db53d7d598097c067e9188015168c.jpg');
+    background-position: top left;
+    background-repeat: repeat;
+    -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
+    animation: mymove 95s infinite;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes mymove {
+    50% {background-position: center;}
+}
+
+/* Standard syntax */
+@keyframes mymove {
+    50% {background-position: center;}
+}

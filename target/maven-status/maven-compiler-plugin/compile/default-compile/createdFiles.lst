@@ -1,0 +1,16 @@
+com\fyp\controller\voterController.class
+com\fyp\model\admin.class
+com\fyp\model\candidates.class
+com\fyp\model\pollingstation.class
+com\fyp\model\provisionalcandidates.class
+com\fyp\service\voterService.class
+com\fyp\controller\ImageController.class
+com\fyp\dao\voterDao.class
+com\fyp\model\constituency.class
+com\fyp\dao\impl\voterDaoImpl.class
+com\fyp\model\Candi.class
+com\fyp\model\Votes.class
+com\fyp\model\adminReq.class
+com\fyp\model\provisionalvotes.class
+com\fyp\model\voter.class
+com\fyp\service\impl\voterServiceImpl.class

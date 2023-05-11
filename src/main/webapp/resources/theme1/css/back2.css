@@ -1,0 +1,63 @@
+.user-id-div{
+padding-top:5%;padding-bottom: 5%;
+padding-left:3%;padding-right: 5%;
+    border: 7px solid DarkGreen;
+height: 100px
+background-position:center; 
+width:350px;
+margin:0 auto; 
+text-align:center;   
+}
+
+
+.cand-id-div{
+padding-top:3%;padding-bottom: 3%;
+padding-left:4%;padding-right: 4%;
+    border: 7px solid DarkGreen;
+height: auto;
+background-position:center; 
+width:350px;
+margin:0 auto; 
+text-align:center;   
+}
+
+
+.user-id-div span{
+  display:inline-block;
+}
+
+.font-style{ 
+		color:DarkGreen;
+	 font-family: "Times New Roman", Times, serif;
+}
+span,h1{
+	color:DarkGreen;
+	font-weight:bold;	
+}
+
+.btn{
+    border: 3px  DarkGreen;
+height: auto;
+background-position:center; 
+width:auto;
+margin:0 auto; 
+text-align:center;   
+}
+.cand-div{
+padding-top:1%;padding-bottom: 1%;
+padding-left:1%;padding-right: 1%;
+    border: 3px solid DarkGreen;
+height: 120px
+background-position:center; 
+width:180px;
+margin:0 auto; 
+text-align:center;   
+}
+.wrapper {
+    text-align: center;
+    position: center;
+    left: 20%;
+    right: 10%; 
+    width:400px;
+    margin:auto 0;
+}
